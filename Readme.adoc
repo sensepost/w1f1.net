@@ -1,14 +1,14 @@
 = Rouge AP
-[hostapd-mana](https://github.com/sensepost/hostapd-mana/)
+https://github.com/sensepost/hostapd-mana/[hostapd-mana]
 
 = Orchestration
-[berate_ap](https://github.com/sensepost/berate_ap)
+https://github.com/sensepost/berate_ap[berate_ap]
 
 = EAP Relay
-[wpa_sycophant](https://github.com/sensepost/wpa_sycophant)
+https://github.com/sensepost/wpa_sycophant[wpa_sycophant]
 
 = MitM
-[bettercap](https://github.com/bettercap/bettercap)
+https://github.com/bettercap/bettercap[bettercap]
 
 = Practise
-[shinai-fi](https://github.com/sensepost/shinai-fi)
+https://github.com/sensepost/shinai-fi[shinai-fi]
