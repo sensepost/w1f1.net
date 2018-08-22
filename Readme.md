@@ -2,7 +2,7 @@
 
 These are a set of tools for wifi hacking, released as part of a Defcon 26 talk. This page will fill out in the coming weeks. In the meantime, here are the links to the tools.
 
-## Rouge AP
+## Rogue AP
 
 [hostapd-mana](https://github.com/sensepost/hostapd-mana/)
 
