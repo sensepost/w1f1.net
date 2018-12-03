@@ -23,7 +23,7 @@ Relay EAP authentication to get authenticated without cracking MSCHAPv2 by [@_ca
 
 ## MitM
 
-The defacto MitM tool, built by (@evilsocket)[https://twitter.com/evilsocket], and the replacement for the now deprecated mana-toolkit scripts.
+The defacto MitM tool, built by [@evilsocket](https://twitter.com/evilsocket), and the replacement for the now deprecated mana-toolkit scripts.
 
 * [bettercap](https://github.com/bettercap/bettercap)
 
