@@ -29,6 +29,13 @@ The defacto MitM tool, built by (@evilsocket)[https://twitter.com/evilsocket], a
 
 ## Practise
 
-A docker image to practiser wifi hacking without hardware.
+Practise without needing hardware or breaking the law.
 
-* [shinai-fi](https://github.com/sensepost/shinai-fi)
+* [katacoda](https://katacoda.com/singe) Free online interactive training scenarios
+* [shinai-fi](https://github.com/sensepost/shinai-fi) Docker image of the same scenarios
+
+## Frequency Hacking
+
+Avoid local regulatory restrictions on wifi frequencies.
+
+* [wifi-frequency-hacker](https://github.com/singe/wifi-frequency-hacker)
