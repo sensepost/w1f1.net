@@ -8,10 +8,12 @@ The core of the rogue access point toolkit.
 
 * [hostapd-mana](https://github.com/sensepost/hostapd-mana/)
 * [Wiki](https://github.com/sensepost/hostapd-mana/wiki)
+* [eaphammer](https://github.com/s0lst1c3/eaphammer) - an alternative implementation, with many of mana's capabilities as well as many more, and a simple command line interface. By [@s0lst1c3](@http://twitter.com/s0lst1c3). There is also a comprehensive [wiki](https://github.com/s0lst1c3/eaphammer/wiki)
+* [hostapd-wpe](https://github.com/aircrack-ng/aircrack-ng/tree/master/patches/wpe/hostapd-wpe) - the aircrack maintained original hostapd-wpe patch. Tracks upstream hostapd faster.
 
 ## Orchestration
 
-A fork of the create_ap tool to configure common access points modes and their networking by [@_cablethief](https://twitter.com/_cablethief).
+A fork of the create_ap tool to configure common access points modes and their networking by [@_cablethief](https://twitter.com/_cablethief). Supports most of mana's capabilities.
 
 * [berate_ap](https://github.com/sensepost/berate_ap)
 
@@ -21,9 +23,9 @@ Relay EAP authentication to get authenticated without cracking MSCHAPv2 by [@_ca
 
 * [wpa_sycophant](https://github.com/sensepost/wpa_sycophant)
 
-## MitM
+## PitM
 
-The defacto MitM tool, built by [@evilsocket](https://twitter.com/evilsocket), and the replacement for the now deprecated mana-toolkit scripts.
+The defacto PitM tool, built by [@evilsocket](https://twitter.com/evilsocket), and the replacement for the now deprecated mana-toolkit scripts.
 
 * [bettercap](https://github.com/bettercap/bettercap)
 
